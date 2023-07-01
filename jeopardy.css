@@ -1,0 +1,10 @@
+#jeopardy th {
+    background: linear-gradient(skyblue,blue);
+    height: 100px;
+    width: 300px;
+}
+#jeopardy td {
+    background: linear-gradient(orange,red);
+    height: 120px;
+    width: 300px;
+}
